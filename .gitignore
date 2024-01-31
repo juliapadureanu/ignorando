@@ -1,0 +1,4 @@
+config.json
+bin/*
+**/node_modules/
+src/**/*.class
